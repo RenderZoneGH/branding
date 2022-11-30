@@ -1,0 +1,29 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "RenderZone Discord Server Rules",
+        "description": "1. No flooding the chat with messages or emojis.\n2. No asking for or offering pirated software or illegal content.\n3. No spamming or advertising other Discord servers.\n4. No NSFW content.\n5. No racism, sexism, homophobia, or other forms of bigotry.\n6. No doxxing, hacking, or phishing.\n7. No impersonation or evading bans.\n8. No excessive use of capital letters, emojis, or punctuation.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Why did we make the rules so simple?",
+            "value": "We want everyone to be able to enjoy the server without having to worry about breaking a rule. However, we also want to make sure that people are respectful of each other. If you have any questions about the rules, please feel free to ask a moderator."
+          },
+          {
+            "name": "Still need a TL;DR",
+            "value": "Be respectful and don't do anything illegal."
+          }
+        ],
+        "author": {
+          "name": "Brought by the RenderZone staff team.",
+          "icon_url": "https://media.discordapp.net/attachments/839019900978069504/1031290358124007585/Logo_700x700_-_Icon_BG.png"
+        },
+        "footer": {
+          "text": "The contents of this mesaage should only be seen in the RenderZone Discord Server"
+        },
+        "timestamp": "2022-10-27T21:00:00.000Z"
+      }
+    ],
+    "attachments": []
+  }
